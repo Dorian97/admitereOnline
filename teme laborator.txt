@@ -1,0 +1,16 @@
+  Teme laborator: Limbaje Formale si Compilatoare
+
+   termen                                                         Intrare                        Iesire
+  (saptamani)
+ 
+1. (1)  Program recunostere numar binar                    sir de caractere                  este/nu este binar
+
+2. (3)  Generare de siruri plecand de la                elementele unei gramatici         siruri de simboluri
+         o gramatica Independenta de context        (terminale,neterminale,productii)
+
+3-4. (2+3)  Automat Push-Down pentru gramatici LR(1)   elementele unei gramatici LR(1)+    (3) generare tabela de actiuni si de salt
+                                                            sir intrare                    (2) analiza sirului
+
+5. (3)  Translator Push-Down pentru               automat push down+reguli generare cod      cod intermediar pentru evaluare
+          expresii aritmetice                              +expresie aritmetica                   expresie
+                                                               
